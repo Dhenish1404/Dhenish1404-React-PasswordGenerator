@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.mainContainer {
+  border: 4px outset slategray;
+  padding: 0rem 3rem 0.7rem 3rem;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sliderContainer {
+  margin-top: 1.5rem;
+}
